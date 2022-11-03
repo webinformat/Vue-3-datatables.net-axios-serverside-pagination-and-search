@@ -1,6 +1,8 @@
-# Vue 3 Datatables
+# Vue 3 Datatables.net serverSide pagination and search
 
-It was hard for me to find the way to use Datatables in Vue3, I hope this works for you.
+How to use datatables.net with axios serverside pagination and search.
+
+Thanks to lugezz/Vue3_Datatables
 
 ## Project setup
 ```
